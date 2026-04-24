@@ -17,3 +17,4 @@ const pessoa = {
 semRetorno("Joao", "Victor");
 // pessoa.exibirNome();
 // export{pessoa};
+// usa só em funções que executa ações
